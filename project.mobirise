@@ -893,7 +893,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/hybrid-bonjour-1170x430.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -910,10 +910,10 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/minivan-bonjour-1170x430.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
-                "showTitle": true,
+                "showTitle": false,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-5",
