@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Champlain Taxi",
-    "currentPage": "index-en.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -774,7 +774,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"https://itunes.apple.com/ca/app/champlain-taxi/id1282183019?mt=8\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">IOS</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" data-app-placeholder=\"Type Text\" href=\"https://play.google.com/store/apps/details?id=com.megataxi.android.champlaintaxi&amp;hl=en_CA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ANDROID</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/slider2-1920x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/survoltage-1280x522.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": true,
@@ -1912,7 +1912,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">iPhone</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Android</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/slider2-1920x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/survoltage-1280x522.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": true,
