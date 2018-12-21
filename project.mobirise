@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Champlain Taxi",
-    "currentPage": "index-en.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -741,7 +741,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"https://itunes.apple.com/ca/app/champlain-taxi/id1282183019?mt=8\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">iPhone</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" data-app-placeholder=\"Type Text\" href=\"https://play.google.com/store/apps/details?id=com.megataxi.android.champlaintaxi&amp;hl=en_CA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Android</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/holiday-party-drinks-1000x525.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-3170-1600x900.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -758,25 +758,25 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"https://itunes.apple.com/ca/app/champlain-taxi/id1282183019?mt=8\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">IOS</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" data-app-placeholder=\"Type Text\" href=\"https://play.google.com/store/apps/details?id=com.megataxi.android.champlaintaxi&amp;hl=en_CA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ANDROID</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/survoltage-1280x522.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-3162-1600x900.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-1",
-                "customStyle2": "display-2",
+                "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "Bien plus qu'un taxi",
+                "title": "Bien plus qu'un taxi service",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "service de courrier, survoltage, service d'aéroport",
+                "text": "• service de courrier<br>• survoltage<br>• service d'aéroport<br>• flotte écologique<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"https://itunes.apple.com/ca/app/champlain-taxi/id1282183019?mt=8\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">IOS</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" data-app-placeholder=\"Type Text\" href=\"https://play.google.com/store/apps/details?id=com.megataxi.android.champlaintaxi&amp;hl=en_CA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ANDROID</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/slide1-1920x1080.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -1878,7 +1878,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://itunes.apple.com/ca/app/champlain-taxi/id1282183019?mt=8\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">iPhone</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" data-app-placeholder=\"Type Text\" href=\"https://play.google.com/store/apps/details?id=com.megataxi.android.champlaintaxi&amp;hl=en_CA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Android</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/holiday-party-drinks-1000x525.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-3170-1600x900.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -1895,25 +1895,25 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">iPhone</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Android</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/survoltage-1280x522.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-3162-1600x900.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-1",
-                "customStyle2": "display-2",
+                "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "Far more than just a taxi",
+                "title": "Far more than just a taxi service",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "courier service, car boosting, airport service",
+                "text": "•&nbsp;courier service<br>•&nbsp;car boosting<br>•&nbsp;airport service<br>•&nbsp;eco friendly fleet",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">iPhone</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Android</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/slide1-1920x1080.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
