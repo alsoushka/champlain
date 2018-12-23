@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Champlain Taxi",
-    "currentPage": "index-en.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -48,7 +48,7 @@
   "pages": {
     "index.html": {
       "settings": {
-        "title": "Taxi Champlain: 425 voitures pour vous servir sur toute l'île de Montréal",
+        "title": "Taxi Champlain: 350 voitures pour vous servir sur toute l'île de Montréal",
         "meta_descr": "Taxi Champlain - 514-271-1111 pour commander un taxi. Taxi Champlain offre un service de passagers 24/7 dans la région de l’île de Montréal.",
         "header_custom": "",
         "footer_custom": "",
@@ -1231,7 +1231,7 @@
     "index-en.html": {
       "settings": {
         "main": true,
-        "title": "Taxi Champlain: 425 cars to serve you all over the island of Montreal",
+        "title": "Taxi Champlain: 350 cars to serve you all over the island of Montreal",
         "meta_descr": "Taxi Champlain - 514-271-1111 to order a taxi. Taxi Champlain offers a 24/7 passenger service in the Montreal Island region.",
         "header_custom": "",
         "footer_custom": "",
