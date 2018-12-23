@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Champlain Taxi",
-    "currentPage": "index-en.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -783,7 +783,7 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-1",
-                "customStyle2": "display-2",
+                "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "title": "<b>Taxi Champlain</b>",
                 "overlay": true,
@@ -1953,7 +1953,7 @@
                 "title": "<b>Far more than just a taxi service</b>",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "•&nbsp;courier service<br>•&nbsp;car boosting<br>•&nbsp;airport service<br>•&nbsp;eco friendly fleet",
+                "text": "• delivery service<br>•&nbsp;car boosting<br>•&nbsp;airport service<br>•&nbsp;eco friendly fleet",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">iPhone</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Android</a>"
               },
               {
@@ -1965,12 +1965,12 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-1",
-                "customStyle2": "display-2",
+                "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "<b>Better way to go</b>",
+                "title": "<b>Taxi Champlain</b>",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "since 1974",
+                "text": "Better way to go since 1974",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ]
